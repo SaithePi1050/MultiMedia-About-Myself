@@ -86,3 +86,15 @@ input {
 #dog-man{
     background: linear-gradient(#732af1 0%, #a681f1 50%, #dc89f1 100%);
 }
+
+#imgSai{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}
+
+#imgSai1{
+    width: 54px;
+    height: 54px;
+    border-radius: 27px;
+}
